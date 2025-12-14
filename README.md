@@ -26,7 +26,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/shikher_singh) 
-<img width="500" height="500" alt="qr-code" src="https://github.com/user-attachments/assets/e4ee4628-80aa-4211-b4ef-ca4e8224207d" />
+<img width="300" height="300" alt="qr-code" src="https://github.com/user-attachments/assets/e4ee4628-80aa-4211-b4ef-ca4e8224207d" />
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
